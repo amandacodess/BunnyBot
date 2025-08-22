@@ -19,3 +19,12 @@
 - **Async Support:** Nest Asyncio  
 
 ---
+## Contribution
+BunnyBot is open source and welcomes contributions. Found a bug or have a feature request? Open an issue.
+
+---
+## License
+MIT License © 2025 @amandacodess
+
+
+
