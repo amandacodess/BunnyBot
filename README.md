@@ -19,6 +19,12 @@
 - **Async Support:** Nest Asyncio  
 
 ---
+
+## Discord Bot Invite Link 
+https://discord.com/oauth2/authorize?client_id=1408436654342930443&permissions=PERMISSIONS&scope=bot
+
+---
+
 ## Contribution
 BunnyBot is open source and welcomes contributions. Found a bug or have a feature request? Open an issue.
 
